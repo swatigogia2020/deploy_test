@@ -1,3 +1,5 @@
+vagrant ssh 3ceb346
+sudo su
 #Download latest HIP OMOD and relaunch openmrs
 username=$1
 token=$2
